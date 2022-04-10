@@ -1,5 +1,12 @@
-<img src="https://static.wikia.nocookie.net/loveinterest/images/a/a2/Chitoge_Key_Visual.png/revision/latest?cb=20140806185340" alt="whatsapp-botto-void-init" border="0"></a>
-# Chitoge Hosting/Deploy Guides
+<div align="center">
+<a href="https://ibb.co/V334M4J"><img src="https://i.ibb.co/V334M4J/EYLv7-Ge-X0-Ac-Ix-Ei.jpg" alt="EYLv7-Ge-X0-Ac-Ix-Ei" border="0"></a>
+
+  
+  
+# Akeno's Hosting/Deployment Guides
+  
+</div><br/>
+<br/>
 
 ## 💻 [Self-Hosting-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Self-hosting-guide.md)
 ## ☁️ [Heroku-Deploy-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Heroku-Deploy-Guide.md) 
