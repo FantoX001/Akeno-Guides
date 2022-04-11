@@ -11,4 +11,4 @@ http://api.brainshop.ai/get?bid=[bid]&key=[key]&uid=[uid]&msg=[msg]<br>
 
 That's it! You can make your own chatbot api. You can use this api for other projects as well.
 
-## 👁️‍🗨️A BOT WITH A BRAIN ROCKS! Úwù
+## 👁️‍🗨️A BOT WITH A BRAIN ROCKS!
